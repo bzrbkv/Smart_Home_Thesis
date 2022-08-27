@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>gear.png</file>
+        <file>Menu.qml</file>
+        <file>Lights.qml</file>
+        <file>MyStyle.qml</file>
+        <file>Energy.qml</file>
+        <file>Climate.qml</file>
+        <file>Camera.qml</file>
+        <file>VideoPlayer.qml</file>
+        <file>Socket.qml</file>
+        <file>Lock.qml</file>
+    </qresource>
+</RCC>

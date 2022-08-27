@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file alias="cold">cold.png</file>
+        <file alias="camera">camera.png</file>
+        <file alias="lock">padlock.png</file>
+        <file alias="thermometer">thermometer.png</file>
+        <file alias="light">light.png</file>
+        <file alias="shade">shade.png</file>
+        <file alias="headphones">headphones.png</file>
+        <file alias="gear">gear.png</file>
+        <file alias="air">air.png</file>
+        <file alias="home">home.png</file>
+        <file alias="home_back">home.jpg</file>
+        <file alias="home_back2">home2.jpg</file>
+        <file alias="home_back3">home3.jfif</file>
+        <file alias="home_back4">home4.jpg</file>
+        <file alias="home_back5">home5.jpg</file>
+        <file alias="light_off">light_off.png</file>
+        <file alias="light_on">light_on.png</file>
+        <file alias="light_on2">idea.png</file>
+        <file alias="second">second_floor.jpg</file>
+        <file alias="secondF">secondFloor.png</file>
+        <file alias="second_fl">second_fl.jpg</file>
+        <file alias="first_fl">first_fl.jpg</file>
+        <file alias="outside_fl">outside_fl.jpg</file>
+        <file alias="outside">outside.jpg</file>
+        <file alias="second_fl2">second_fl2.jpg</file>
+        <file alias="second_fl3">second_fl3.png</file>
+        <file alias="first_fl3">first_fl3.png</file>
+        <file alias="outside_fl3">outside_fl3.png</file>
+        <file alias="backgrd">black_background.jpg</file>
+        <file alias="home_back6">home_back6.jpg</file>
+        <file alias="humidity">humidity.png</file>
+        <file alias="plug1">plug1.png</file>
+        <file alias="plug4">plug4.png</file>
+        <file alias="plug5">plug5.png</file>
+        <file alias="plug7">plug7.png</file>
+        <file alias="padlock_open">padlock_open.png</file>
+        <file alias="padlock_close">padlock_close.png</file>
+        <file alias="heater">heater.png</file>
+        <file alias="radiator">radiator.png</file>
+    </qresource>
+</RCC>
